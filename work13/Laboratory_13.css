@@ -1,0 +1,234 @@
+@font-face {
+    font-family: akazan;
+    src: url(fonts/Akazan\ Rg.ttf);
+}
+@font-face {
+    font-family: tahomaa;
+    src: url(fonts/tahoma.ttf);
+}
+@font-face{
+    font-family: akazanitalic;
+    src: url(fonts/Akazan\ Bold\ Italic.ttf);
+}
+@font-face{
+    font-family: trebuc;
+    src: url(fonts/trebuc.ttf);
+}
+.big{
+    border: black 1px solid;
+    height: 760px;
+    width: 900px;
+    margin: auto;
+    position: relative;
+}
+.top1{
+    border: black 1px solid;
+    height: 100px;
+    background-color: rgb(23, 23, 37);
+}
+.top2{
+    border: 1ps solid rgb(255, 145, 0);
+    height: 5px;
+    background-color: rgb(255, 145, 0);
+}
+.photo{
+    position: absolute;
+    left: 50px;
+    height: 200px;
+    width: 800px;
+    background-color: rgb(90, 90, 90);
+    display: flex;
+}
+.left{
+    position: absolute;
+    left: 50px;
+    top: 310px;
+    height: 400px;
+    width: 270px;
+}
+.right{
+    position: absolute;
+    right: 50px;
+    top: 310px;
+    height: 400px;
+    width: 525px;
+}
+.logo1{
+    position: absolute;
+    top: 35px;
+    left: 80px;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 145, 0);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo2{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(23, 23, 37);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo3{
+    width: 14px;
+    height: 14px;
+    background-color: white;
+    border-radius: 4px;
+}
+.logo4{
+    position: absolute;
+    top: 10px;
+    left: 11px;
+}
+.pc{
+    position: absolute;
+    left: 120px;
+    top: -3px;
+    font-family: akazan;
+    font-size: 35px;
+}
+.menu{
+    position: absolute;
+    top: 23px;
+    right: 50px;
+    color: white;
+    font-size: 15px;
+    font-family: tahomaa;
+}
+.best{
+    position: absolute;
+    top: 20px;
+    left: 350px;
+    color: white;
+    font-family: akazanitalic;
+    font-size: 24px;
+}
+.ul1{
+    position: absolute;
+    top: 75px;
+    left: 380px;
+    color: rgb(255, 145, 0);
+    font-family: akazan;
+    font-size: 18px;
+}
+.our{position: absolute;
+    left: 30px;
+    font-family: akazan;
+    font-size: 20px;
+}
+.ul2{
+    position: absolute;
+    top: 40px;
+    font-family: trebuc;
+    font-size: 14px;
+}
+.TESTIMONIALS{
+    position: absolute;
+    left: 30px;
+    top: 260px;
+    font-family: akazan;
+    font-size: 20px;
+}
+.george{
+    position: absolute;
+    left: 30px;
+    top: 300px;
+    color: rgb(255, 145, 0);
+    font-size: 11px;
+    font-family: tahomaa;
+}
+.nam{
+    position: absolute;
+    left: 30px;
+    top: 325px;
+    font-size: 11px;
+    font-family: tahomaa;
+}
+.welcome{
+    position: absolute;
+    left: 30px;
+    font-family: akazan;
+    font-size: 20px;
+}
+.lorem{
+    position: absolute;
+    top: 45px;
+    left: 33px;
+    font-family: akazan;
+    font-size: 13px;
+}
+.eu{
+    position: absolute;
+    top: 85px;
+    left: 33px;
+    font-family: akazan;
+    font-size: 15px;
+}
+.hardware{
+    position: absolute;
+    top: 160px;
+    left: 33px;
+    font-family: akazan;
+    font-size: 20px;
+    color: rgb(255, 145, 0);
+}
+.ipsum{
+    position: absolute;
+    top: 195px;
+    left: 33px;
+    font-family: akazan;
+    font-size: 13px;
+}
+.photos{
+    position: absolute;
+    top: 250px;
+    left: 33px;
+    height: 60px;
+    width: 190px;
+}
+.photos2{
+    position: absolute;
+    top: 250px;
+    left: 270px;
+    height: 60px;
+    width: 190px;
+}
+.nulla{
+    position: absolute;
+    top: 305px;
+    left: 33px;
+    font-family: akazan;
+    font-size: 13px;
+}
+.nulla2{
+    position: absolute;
+    top: 305px;
+    left: 270px;
+    font-family: akazan;
+    font-size: 13px;
+}
+.bottom{
+    position: absolute;
+    top: 710px;
+    height: 50px;
+    width: 900px;
+    background-color: rgb(214, 214, 214);
+}
+.homepage{
+    position: absolute;
+    left: 240px;
+    font-family: akazan;
+    font-size: 13px;
+}
+.Copyright{
+    position: absolute;
+    top: 15px;
+    left: 345px;
+    font-family: akazan;
+    font-size: 13px;
+}

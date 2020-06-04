@@ -1,0 +1,45 @@
+.first{
+    background-color: silver;
+    margin: auto;
+    width: 800px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+.animation1{
+    border: 1px black solid;
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin-left: 25px;
+}
+.animation1:hover{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    margin-left: 525px;
+    transition-duration: 8s;
+}
+.second{
+    background-color: silver;
+    margin: auto;
+    width: 800px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.animation2{
+    border: 1px black solid;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    margin-left: 25px;
+}
+.animation2:hover{
+    background-color: red;
+    width: 700px;
+    height: 150px;
+    margin-left: 525px;
+    transition-duration: 6s;
+}

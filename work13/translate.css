@@ -1,0 +1,31 @@
+@keyframes animation{
+    0%{transform: translate(0px, 0px);}
+    25%{transform: translate(550px, 0);}
+    50%{transform: translate(550px, 200px);}
+    75%{transform: translate(0px, 200px);}
+    100%{transform: translate(0px, 0px);}
+}
+.silver{
+    margin: auto;
+    width: 600px;
+    height: 250px;
+    background-color: silver;
+    position: relative;
+}
+.square{
+    position: absolute;
+    left: 25px;
+    margin-top: 25px;
+    border: black solid 2px;
+    height: 200px;
+    width: 550px;
+}
+.small{
+    border: solid 1px red;
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    animation-name: animation;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}

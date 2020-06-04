@@ -1,0 +1,82 @@
+.big{
+    border: black 2px solid;
+    width: 800px;
+    height: 130px;
+    margin: auto;
+    background-color: silver;
+    display: flex;
+}
+.kid1{
+    border: black 1px solid;
+    height: 100px;
+    width: 170px;
+    margin-top: 15px;
+    margin-left: 25px;
+    background-image: linear-gradient(to right, red, green, blue);
+}
+.kid2{
+    border: black 1px solid;
+    height: 100px;
+    width: 170px;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-image: linear-gradient(to bottom, red, green, blue);
+}
+.kid3{
+    border: black 1px solid;
+    height: 100px;
+    width: 170px;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-image: linear-gradient(to top left, red, green, blue);
+}
+.kid4{
+    border: black 1px solid;
+    height: 100px;
+    width: 170px;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-image: linear-gradient(to bottom left, red, green, blue);
+}
+.big1{
+    border: black 2px solid;
+    width: 800px;
+    height: 130px;
+    margin: auto;
+    background-color: silver;
+    display: flex;
+    margin-top: 30px;
+}
+.kid5{
+    border: black 1px solid;
+    height: 100px;
+    width: 170px;
+    margin-top: 15px;
+    margin-left: 25px;
+    background-image: radial-gradient(red, green, blue);
+}
+.kid6{
+    border: black 1px solid;
+    height: 100px;
+    width: 170px;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-image: radial-gradient(red 60%, green 5%, blue 35%);
+}
+.kid7{
+    border: black 1px solid;
+    height: 100px;
+    width: 170px;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-image: repeating-radial-gradient(blue 10%, green 40%, red 50%);
+}
+.kid8{
+    border: black 1px solid;
+    height: 100px;
+    width: 170px;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-image: radial-gradient( red 20%, green 20%, blue 30%);
+
+}
